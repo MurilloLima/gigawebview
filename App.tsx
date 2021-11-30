@@ -6,9 +6,8 @@ import { WebView } from 'react-native-webview';
 export default function App() {
   return (
     <WebView style={styles.container}
-      source={{ uri: 'https://ativeimoveis.com.br/' }}
+      source={{ uri: 'http://www.exsol.com.br/' }}
     >
-      <StatusBar style="auto" />
     </WebView>
   );
 }
@@ -17,6 +16,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#0E0E0E',
+    marginTop:35,
     alignItems: 'center',
     justifyContent: 'center',
   },

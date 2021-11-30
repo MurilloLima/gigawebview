@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "GigaWebView",
-    "slug": "GigaWebView",
+    "name": "Dica Diesel",
+    "slug": "dica-diesel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.murillo_smit.GigaWebView"
+      "package": "com.murillo_smit.pop"
     },
     "web": {
       "favicon": "./assets/favicon.png"
